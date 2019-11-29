@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankKataInsideOut", "BankKataInsideOut\BankKataInsideOut.csproj", "{35011CEF-2AB8-45F3-A313-1CE99E5AE02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankKataInsideOutTests", "BankKataInsideOutTests\BankKataInsideOutTests.csproj", "{3D4F1107-6D74-448D-BEC7-5F90EF75F57C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35011CEF-2AB8-45F3-A313-1CE99E5AE02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35011CEF-2AB8-45F3-A313-1CE99E5AE02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35011CEF-2AB8-45F3-A313-1CE99E5AE02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35011CEF-2AB8-45F3-A313-1CE99E5AE02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4F1107-6D74-448D-BEC7-5F90EF75F57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4F1107-6D74-448D-BEC7-5F90EF75F57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4F1107-6D74-448D-BEC7-5F90EF75F57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4F1107-6D74-448D-BEC7-5F90EF75F57C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD676784-C05D-44F9-B445-216841ADE243}
+	EndGlobalSection
+EndGlobal
